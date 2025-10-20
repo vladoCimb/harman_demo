@@ -1,0 +1,33 @@
+name: app_ui
+description: App UI Component Library
+publish_to: none
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockingjay: ^0.3.0
+  mocktail: ^0.3.0
+  very_good_analysis: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: TemplateAppIcons
+      fonts:
+        - asset: assets/fonts/TemplateAppIcons.ttf
+  assets:
+    - assets/png/
+
+flutter_gen:
+  assets:
+    outputs:
+      package_parameter_enabled: true
+  output: lib/src/generated/
+  line_length: 80

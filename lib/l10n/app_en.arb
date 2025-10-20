@@ -1,0 +1,23 @@
+{
+    "settings": "Settings",
+    "systemOption": "System",
+    "@systemOption": {
+        "description": "The option to use system-wide theme in the theme selector menu",
+        "type": "text",
+        "placeholders": {}
+    },
+    "lightModeOption": "Light",
+    "@lightModeOption": {
+        "description": "The option for light mode in the theme selector menu",
+        "type": "text",
+        "placeholders": {}
+    },
+    "darkModeOption": "Dark",
+    "@darkModeOption": {
+        "description": "The option for dark mode in the theme selector menu",
+        "type": "text",
+        "placeholders": {}
+    },
+    "language": "Language",
+    "theme": "Theme"
+}

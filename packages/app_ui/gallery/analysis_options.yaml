@@ -1,0 +1,4 @@
+include:very_good_analysis: ^4.0.0
+linter:
+  rules:
+    public_member_api_docs: false
