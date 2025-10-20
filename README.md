@@ -56,13 +56,13 @@ If there is any issues building the project make sure your launch.json in .vscod
 }
 ```
 
-- If you found this interesting there another README in app_ui package that describe some practices and usage of app_ui
+- If you found this interesting there another README in app_ui package that describe some practices and usage of app_ui: [app_ui README](./packages/app_ui/README.md) 
 
 ---
 
 ## Getting Started 🚀
 
-This project contains 3 flavors:
+This project contains 2 flavors:
 
 - staging
 - production
@@ -181,7 +181,7 @@ Update the `CFBundleLocalizations` array in the `Info.plist` at `ios/Runner/Info
 
 ## Generating assets 🖼️
 
-We're using [flutter_gen](https://pub.dev/packages/flutter_gen) to generate statically safe descriptions of image and font assets.
+I am using [flutter_gen](https://pub.dev/packages/flutter_gen) to generate statically safe descriptions of image and font assets.
 
 You need to install the `flutter_gen` tool via brew or pub, by following the [installation instruction](https://pub.dev/packages/flutter_gen/install). The configuration of the tool is stored in `pubspec.yaml`.
 
