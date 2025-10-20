@@ -19,6 +19,7 @@
 - Applications supports multiple flavors staging and production.
 If there is any issues building the project make sure your launch.json in .vscode looks like this
 
+```
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
@@ -53,6 +54,7 @@ If there is any issues building the project make sure your launch.json in .vscod
         },
     ]
 }
+```
 
 - If you found this interesting there another README in app_ui package that describe some practices and usage of app_ui
 
