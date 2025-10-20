@@ -200,3 +200,4 @@ Assets.images.discord.image(height: 120),
 If you're adding new assets to ui library, make sure to run `fluttergen` inside the package directory as well.
 
 
+[Demo video](https://drive.google.com/file/d/14Rn__QgOC6eeW19ELgiVTQ3MJV0_aaRJ/view?usp=sharing)
