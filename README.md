@@ -5,7 +5,7 @@
     1.	In feed_bloc, where key events are captured using HardwareKeyboard.instance.
     2.	In side_navigation_menu, where navigation is managed via Shortcuts and Actions.
 
- The codebase is intentionally kept cleanand lightweight while still demonstrating solid architecture principles and best practices.
+ The codebase is intentionally kept clean and lightweight while still demonstrating solid architecture principles and best practices.
 
 - Solution has dark and light mode. Please bear in mind that I didn't aim to make light mode looks good and I used random colors. I just wanted to demonstrate a fully themable solution.
 
