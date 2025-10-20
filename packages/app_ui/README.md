@@ -1,6 +1,6 @@
-# Fresh Cut UI Kit (app_ui) 👨‍🎨
+# UI Kit (app_ui) 👨‍🎨
 
-A UI Kit for Fresh Cut
+A UI Kit
 
 ## Table of Contents
 
